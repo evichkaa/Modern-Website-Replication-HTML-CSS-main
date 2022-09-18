@@ -1,0 +1,425 @@
+/* Start - Define fonts */
+@font-face {
+	font-family: Avenir-Black;
+	src: url(resources/Avenir-Black.ttf);
+}
+
+@font-face {
+	font-family: Avenir-Book;
+	src: url(resources/Avenir-Book.ttf);
+}
+
+@font-face {
+	font-family: Avenir-Light;
+	src: url(resources/Avenir-Light.ttf);
+}
+
+@font-face {
+	font-family: HelveticaNeue-Medium;
+	src: url(resources/HelveticaNeue-Medium.ttf);
+}
+
+@font-face {
+	font-family: HelveticaNeue-Light;
+	src: url(resources/HelveticaNeue-Light.ttf);
+}
+
+@font-face {
+	font-family: HelveticaNeue-LightItalic;
+	src: url(resources/HelveticaNeue-LightItalic.ttf);
+}
+
+@font-face {
+	font-family: HelveticaNeue-Bold;
+	src: url(resources/HelveticaNeue-Bold.ttf);
+}
+
+@font-face {
+	font-family: HelveticaNeue;
+	src: url(resources/HelveticaNeue.ttf);
+}
+/* End - Define fonts */
+
+/* Start - General styles */
+.top-offset {
+	margin-top: 100px;
+}
+
+.bottom-margin {
+    margin-bottom: 100px;
+}
+/* End - General styles */
+
+/* Start - Navigation Bar styles */
+.specific-nav-height {
+    height: 72px;
+}
+/* End - Navigation Bar styles */
+
+/* Start - Typography section */
+.blog-header {
+	font-family: Avenir-Black, Avenir, Arial;
+	font-size: 44px;
+	line-height: 60px;
+	color: #313F48;
+}
+
+.article-title {
+	font-family: Avenir-Book, Avenir, Arial;
+	font-size: 24px;
+	line-height: 33px;
+	color: #313F48;
+}
+
+.article-description {
+	font-family: Avenir-Light, Avenir, Arial;
+	font-size: 24px;
+	line-height: 48px;
+	color: #FFFFFF;
+	background-color: grey;
+}
+
+.article-facebook {
+	font-family: HelveticaNeue-Medium, HelveticaNeue, Arial;
+	font-size: 14px;
+	line-height: 24px;
+	color: #47B7E9;
+}
+
+.article-author {
+	font-family: Avenir-Black, Avenir, Arial;
+	font-size: 20px;
+	line-height: 27px;
+	color: #313F48;
+}
+
+.article-date {
+	font-family: HelveticaNeue-Medium, HelveticaNeue, Arial;
+	font-size: 14px;
+	line-height: 24px;
+	color: #808080;
+	background-color: lightgrey;
+}
+
+.paragraph-first-line {
+	font-family: HelveticaNeue-Light, HelveticaNeue, Arial;
+	font-size: 14px;
+	line-height: 24px;
+	color: #54636D;
+}
+
+.paragraph-second-line {
+	font-family: HelveticaNeue-LightItalic, HelveticaNeue, Arial;
+	font-size: 12px;
+	line-height: 24px;
+	color: #313F48;
+}
+
+.article-filed {
+	font-family: HelveticaNeue-Medium, HelveticaNeue, Arial;
+	font-size: 12px;
+	line-height: 24px;
+	color: #313F48;
+}
+
+.article-tv {
+	font-family: HelveticaNeue-Bold, HelveticaNeue, Arial;
+	font-size: 10px;
+	line-height: 12px;
+	color: #313F48;
+}
+
+.footer {
+	font-family: HelveticaNeue, Arial;
+	font-size: 10px;
+	line-height: 12px;
+	color: #54636D;
+}
+/* End - Typography section */
+
+/* Start - Fonts section */
+.font-box {
+	width: 12rem;
+	height: 136px;
+	line-height: 130px;
+	border: 1px solid lightgrey;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.font-box-text {
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 30px;
+}
+
+.HelveticaNeue {
+	font-family: HelveticaNeue, Arial;
+	font-size: x-large;
+}
+
+.HelveticaNeue-Light {
+	font-family: HelveticaNeue-Light, HelveticaNeue, Arial;
+	font-size: x-large;
+}
+
+.Avenir-Book {
+	font-family: Avenir-Book, Avenir, Arial;
+	font-size: x-large;
+}
+
+.Avenir-Black {
+	font-family: Avenir-Black, Avenir, Arial;
+	font-size: x-large;
+}
+
+.HelveticaNeue-Medium {
+	font-family: HelveticaNeue-Medium, HelveticaNeue, Arial;
+	font-size: x-large;
+}
+
+.HelveticaNeue-Bold {
+	font-family: HelveticaNeue-Bold, HelveticaNeue, Arial;
+	font-size: x-large;
+}
+
+.Avenir-Light {
+	font-family: Avenir-Light, Avenir, Arial;
+	font-size: x-large;
+}
+
+.HelveticaNeue-LightItalic {
+	font-family: HelveticaNeue-LightItalic, HelveticaNeue, Arial;
+	font-size: x-large;
+}
+/* End - Fonts section */
+
+/* Start - Navigation section */
+.blog-navigation-current {
+	margin-right: 4em;
+	font-weight: bold;
+}
+
+.blog-navigation-pages {
+	margin-right: 4em;
+	color: grey;
+}
+	
+.blog-navigation-last {
+	color: grey;
+}
+/* End - Navigation section */
+
+/* Start - Buttons section */
+.blog-button-blog {
+	width: 220px;
+	height: 48px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	border-color: lightgrey;
+	color: black;
+	box-shadow: 0 0 40px;
+	font-weight: bold;
+}
+
+.blog-button-blog:hover {
+	color: black;
+}
+
+.blog-button-work {
+	width: 220px;
+	height: 48px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	border-color: lightgrey;
+	color: black;
+}
+
+.blog-button-blog-colored {
+	width: 220px;
+	height: 48px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	border-color: grey;
+	color: white;
+	background-color: #414F59;
+	font-weight: bold;
+}
+
+.blog-button-blog-colored:hover {
+	color: white;
+}
+
+.blog-button-work-colored {
+	width: 220px;
+	height: 48px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	border: 2px solid grey;
+	color: white;
+	background-color: #989FA4;
+}
+
+.blog-button-work-colored:hover {
+	color: white;
+}
+/* End - Buttons section */
+
+/* Start - Logo section */
+.circle-blog-logo {
+	width: 24px;
+	height: 24px;
+	border-radius: 50%;
+	box-shadow: 0px 7px 15px grey;
+	background-image: url('resources/AEPO Logo - Footer.svg');
+	background-size: 15px 15px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.float-blog-logos {
+	float: left;
+	margin-right: 50px;
+}
+
+.center-blog-logos {
+	display: flex;
+	justify-content: center;
+}
+/* End - Logo section */
+
+/* Start - Overlay Shadow section */
+.overlay-shadow {
+	width: 90%;
+	height: 200px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 40px;
+	margin-top: 22px
+}
+/* End - Overlay Shadow section */
+
+/* Start - Input Fields section */
+.form-input-bottom-margin {
+	margin-bottom: 20px;
+}
+
+.form-name-styles {
+	width: 90%;
+	background: #F4F5F6;
+	box-shadow: inset 0px 0px 0px 1px #E4E9EC;
+	border-radius: 2px;
+}
+
+.form-email-styles {
+	width: 90%;
+	background: #F4F5F6;
+	box-shadow: 0px 0px 0px 1px #72C3E2 inset, 0px 0px 4px inset;
+	border-radius: 2px;
+}
+/* End - Input Fields section */
+
+/* Start - Iconography section */
+.carousel-buttons-image {
+	width: 50px;
+	height: 50px;
+	border: 1px solid #55636C;
+	border-radius: 50%;
+	background: #55636C;
+	transform: rotate(180deg);
+}
+/* End - Iconography section */
+
+/* Start - Slider Buttons section */
+.circle-slider-current {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: grey;
+	border: 1px solid black;
+}
+
+.circle-slider-page {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: white;
+	border: 1px solid black;
+}
+
+.slider-buttons-bounding-box {
+	width: 50px;
+	height: 50px;
+	position: relative;
+}
+
+.slider-buttons-center {
+	position: absolute;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+}
+/* End - Slider Buttons section */
+
+/* Start - Filter Icon & Radial section */
+.x-symbol {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border: 5px solid #FFFFFF;
+	background: linear-gradient(45deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 43%, #000000 45%, #000000 55%, rgba(0, 0, 0, 0) 57%, rgba(0, 0, 0, 0) 100%), 
+				linear-gradient(135deg,  #FFFFFF 0%, #FFFFFF 43%, #000 45%, #000000 55%, #FFFFFF 57%, #FFFFFF 100%);
+}
+
+.recrangle-symbol-colored-border {
+	width: 16px;
+	height: 16px;
+	background: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.rectangle-symbol-colored-fill {
+	width: 10px;
+	height: 10px;
+	background: black;
+}
+
+.rectangle-symbol {
+	width: 16px;
+	height: 16px;
+	background: white;
+	border: 1px solid black;
+	border-radius: 5px;
+}
+/* End - Filter Icon & Radial section */
+
+/* Start - Web Grid / Rhythm section */
+table {
+	width: 100%;
+	height: 150px;
+}
+
+td:nth-child(odd) {
+	width: 60px;
+	height: 30px;
+}
+
+td:nth-child(even) {
+	width: 24px;
+	height: 30px;
+	background: #A7DAF2;
+}
+
+tr:nth-child(odd) {
+	background-color: #F1A1D8;
+}
+/* End - Web Grid / Rhythm section */

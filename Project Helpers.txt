@@ -1,0 +1,56 @@
+Assignment: https://www.loom.com/share/fe08d5016a034df08cf0d29cb344e891
+
+Bootstrap Carousel With Captions: https://codepen.io/paulantoniou/pen/RdBogQ
+Vertically Center Text In Bootstrap Carousel: https://stackoverflow.com/questions/45914872/vertically-center-text-in-bootstrap-carousel?rq=1
+Bootstrap Responsive Fixed Navbar: https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-navbar.php
+Change Bootstrap 4 Carousel Control Background: https://stackoverflow.com/questions/49391266/change-bootstrap-4-carousel-control-colors
+Resize Carousel Control Prev/Next Buttons: https://stackoverflow.com/questions/17846595/how-to-resize-carousel-control-prev-next-buttons
+Responsive Web Design With Media Queries: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+Bootstrap Carousel Consistent Height: https://raybo.org/posts/2021-03-27-consistent-height-carousels-with-css-gradients-by-hacking-the-bootstrap-5-carousel/
+Bootstrap Carousel Multiple Line Caption: https://stackoverflow.com/questions/41136540/multiple-line-carousel-caption-for-bootstrap
+Center <div> With "col-md-6": https://stackoverflow.com/questions/40002198/how-to-center-div-with-col-md-6
+Bootstrap Grid System: https://getbootstrap.com/docs/4.2/layout/grid/
+Bootstrap Image Hover Text: https://bootstrapious.com/p/bootstrap-image-hover
+Zoom On Image Hover: https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+Add Text Next To An Image In A Bootstrap Card: https://stackoverflow.com/questions/48040015/how-do-i-add-text-next-to-the-image-in-a-bootstrap-card
+Change The Opacity Of A Card In Bootstrap: https://stackoverflow.com/questions/42430987/how-to-change-the-opacity-of-a-card-block-in-bootstrap-4
+Bootstrap Cards: https://getbootstrap.com/docs/4.0/components/card/
+Place Two <div> Elements Next To Each Other: https://www.tutorialspoint.com/How-to-place-two-divs-next-to-each-other-in-HTML
+Center A <div> Element With CSS Margin Auto: https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/
+Serve Different Images On Different Resolutions: https://juiceboxinteractive.com/blog/a-pixel-is-not-a-pixel-designing-for-a-new-generation-of-mobile-devices/
+Change Images On Different Resolutions: https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/
+HTML 'srcset' Attribute: https://html.com/attributes/img-srcset/
+Change Image Opacity On Hover: https://stackoverflow.com/questions/18223663/how-to-change-the-opacity-of-image-on-hover-using-css
+Bootstrap 5 Change The Carousel Indicators Into Dots: https://stackoverflow.com/questions/47235256/bootstrap-4-change-the-carousel-indicators-into-dots
+Bootstrap Change Position Of Carousel Indicators: https://stackoverflow.com/questions/48311855/how-to-position-carousel-indicators-in-bootstrap-4
+Bootstrap Change Carousel Active Indicator Color: https://stackoverflow.com/questions/39536075/how-to-change-the-carousel-active-indicator-color-bootstrap
+CSS Circle With Border: https://stackoverflow.com/questions/33277777/css-circle-with-border/33277827
+Stop Bootstrap Carousel From Moving: https://stackoverflow.com/questions/26133618/how-to-stop-bootstrap-carousel-from-autosliding
+Create Buttons With Outlines: https://www.w3schools.com/howto/howto_css_outline_buttons.asp
+Add CSS Box Shadow Around The Whole Element: https://stackoverflow.com/questions/6821295/add-css-box-shadow-around-the-whole-div
+Align Image In Center In Footer: https://stackoverflow.com/questions/43995867/footer-align-image-in-center/43996770
+Center Content Inside <div>: https://stackoverflow.com/questions/7926540/css-center-content-inside-div
+Make Hyperlinks Line Up Next To Each Other: https://stackoverflow.com/questions/26557881/how-to-make-hyperlinks-line-up-right-next-to-eachother-with-html/26557893
+Break To New Row With Flexbox: https://tobiasahlin.com/blog/flexbox-break-to-new-row/
+Bootstrap Grid With One Large Column: https://stackoverflow.com/questions/25390194/twitter-bootstrap-grid-with-1-large-column
+Vertically Align Text Within A <div>: https://stackoverflow.com/questions/9249359/vertically-align-text-within-a-div
+CSS Units: https://www.w3schools.com/cssref/css_units.asp
+Define My Own Fonts Via CSS: https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
+Disable Color Change On Button Hover: https://kriesi.at/support/topic/disable-color-change-on-button-hover/
+Create Shadow Of Object: https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+Contain Image Inside Circle: 
+- https://www.w3schools.com/cssref/css3_pr_background-size.asp
+- https://www.w3schools.com/cssref/pr_background-position.asp
+- https://www.w3schools.com/cssref/pr_background-repeat.asp
+Bootstrap Form Inputs: https://www.w3schools.com/bootstrap/bootstrap_forms_inputs.asp
+Placing Border Inside Of <div> And Not On Its Edge: https://stackoverflow.com/questions/9601357/placing-border-inside-of-div-and-not-on-its-edge
+Create Inner Shadow On Element: https://www.educative.io/edpresso/how-to-create-an-inner-shadow-using-css
+Multiple Box Shadows On One Element: https://stackoverflow.com/questions/8556604/is-there-a-way-to-use-two-css3-box-shadows-on-one-element/8556627
+Rotate Element Via CSS: https://www.w3schools.com/cssref/css3_pr_transform.asp
+Horizontally & Vertically Center <div> Inside Another <div>: https://stackoverflow.com/questions/114543/how-to-horizontally-center-an-element
+Bootstrap Carousel: https://getbootstrap.com/docs/5.1/components/carousel/
+Draw An 'X' In CSS: https://stackoverflow.com/questions/18920542/draw-an-x-in-css
+Rectangle With Rounded Corners: https://www.w3schools.com/css/css3_borders.asp
+Center <div> Inside Another <div>: https://stackoverflow.com/questions/15376634/how-can-i-center-a-div-within-another-div
+Add Favicon To Page: https://stackoverflow.com/questions/9943771/adding-a-favicon-to-a-static-html-page
+HTML Table: https://www.w3schools.com/html/html_tables.asp

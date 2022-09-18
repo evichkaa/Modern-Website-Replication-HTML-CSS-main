@@ -1,0 +1,527 @@
+/* Start - Define fonts */
+@font-face {
+    font-family: Avenir-Black;
+    src: url(resources/Avenir-Black.ttf);
+}
+
+@font-face {
+    font-family: Avenir-Book;
+    src: url(resources/Avenir-Book.ttf);
+}
+
+@font-face {
+    font-family: Avenir-Light;
+    src: url(resources/Avenir-Light.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-Medium;
+    src: url(resources/HelveticaNeue-Medium.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-Light;
+    src: url(resources/HelveticaNeue-Light.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-LightItalic;
+    src: url(resources/HelveticaNeue-LightItalic.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue-Bold;
+    src: url(resources/HelveticaNeue-Bold.ttf);
+}
+
+@font-face {
+    font-family: HelveticaNeue;
+    src: url(resources/HelveticaNeue.ttf);
+}
+/* End - Define fonts */
+
+/* Start - Navigation Bar styles */
+.specific-nav-height {
+    height: 72px;
+}
+/* End - Navigation Bar styles */
+
+/* Start - Carousel styles */
+.carousel-control-prev-icon {
+    width: 50px;
+    height: 50px;
+    background-image: url("resources/nav_btn.svg");
+}
+
+.carousel-control-next-icon {
+    width: 48px;
+    height: 48px;
+    background-image: url("resources/nav_btn_hover.svg");
+}
+
+#carouselMain {
+    margin-top: 9.4vh;
+}
+
+.text-center {
+    text-align: center;
+}
+/* End - Carousel styles */
+
+/* Start - First Section styles */
+#firstSection {
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+
+#firstSectionTitle {
+    margin-bottom: 30px;
+}
+/* End - First Section styles */
+
+/* Start - Second Section styles */
+#secondSection {
+    margin-bottom: 200px;
+}
+
+#secondSectionTitle {
+    margin-bottom: 100px;
+}
+
+.post-title {
+    color: black;
+}
+
+.post-date {
+    font-family: HelveticaNeue-Medium, HelveticaNeue, Arial;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.post-description {
+    font-family: HelveticaNeue-Light, HelveticaNeue, Arial;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+}
+
+.post-read {
+    text-decoration: none;
+    color: black;
+}
+
+.image-size {
+    width: 100%;
+    height: 100%;
+}
+
+.post-image-margin {
+    margin-bottom: 50px;
+}
+/* End - Second Section styles */
+
+/* Start - Third Section styles */
+#thirdSection {
+    margin-bottom: 200px;
+}
+
+#thirdSectionTitle {
+    margin-bottom: 100px;
+}
+
+#firstIconRow {
+    margin-bottom: 130px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#secondIconRow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contractor {
+    width: 280px;
+    margin: 0 auto;
+}
+
+.contractor-image {
+    width: 43px;
+    height: 43px;
+}
+
+.fleet {
+    width: 280px;
+    margin: 0 auto;
+}
+
+.fleet-image {
+    width: 43px;
+    height: 43px;
+}
+
+.camera {
+    width: 280px;
+    margin: 0 auto;
+}
+
+.camera-image {
+    width: 43px;
+    height: 43px;
+}
+
+.helmet {
+    width: 280px;
+    margin: 0 auto;
+}
+
+.helmet-image {
+    width: 39px;
+    height: 39px;
+}
+
+.icons-text-spacing {
+    margin-right: 20px;
+}
+
+.text-left {
+    text-align: left;
+}
+/* End - Third Section styles */
+
+/* Start - Fourth Section styles */
+#fourthSection {
+    margin-bottom: 200px;
+}
+
+#fourthSectionTitle {
+    margin-bottom: 100px;
+}
+
+.century-fox {
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    opacity: 0.5;
+}
+
+.hbo {
+    width: 130px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    opacity: 0.5;
+}
+
+.rapha {
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    opacity: 0.5;
+}
+
+.apple {
+    width: 50px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1.0;
+}
+/* End - Fourth Section styles */
+
+/* Start - Fifth Section styles */
+#fifthSection {
+    margin-bottom: 80px;
+}
+
+#fifthSectionTitle {
+    margin-bottom: 100px;
+}
+
+.profile-pic {
+    width: 90px;
+    height: 90px;
+}
+
+.feedbackAuthorText {
+    color: grey;
+}
+
+.feedbackCard {
+    display: flex;
+    justify-content: center;
+}
+
+#carouselFeedback {
+    height: 400px;
+}
+
+.carousel-indicators-moved {
+    position: relative;
+    bottom: -300px;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.carousel-indicators .active{
+    background-color: grey;
+}
+
+#sixthSection {
+    margin-bottom: 180px;
+}
+/* End - Fifth Section styles */
+
+/* Start - Sixth Section styles */
+#sixthSectionTitle {
+    margin-bottom: 50px;
+}
+
+.info-buttons {
+    width: 220px;
+    height: 48px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-color: lightgrey;
+    color: black;
+    background: #FFFFFF;
+}
+
+.info-buttons:hover {
+    box-shadow: 0 0 40px;
+    font-weight: bold;
+}
+/* End - Sixth Section styles */
+
+/* Start - Footer styles */
+.bottom-margin {
+    margin-bottom: 100px;
+}
+
+.text-smaller {
+    font-size: smaller;
+}
+
+.footer-navigation {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+
+.footer-navigation-last {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+/* End - Footer styles */
+
+/* Start - Specific styles */
+.carousel-title {
+    font-family: Avenir-Black, Avenir, Arial;
+    font-size: 44px;
+    line-height: 60px;
+    color: #313F48;
+}
+
+.carousel-description {
+    font-family: Avenir-Light, Avenir, Arial;
+    font-size: 24px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.section-title {
+    font-family: Avenir-Book, Avenir, Arial;
+    font-size: 24px;
+    line-height: 33px;
+    color: #313F48;
+}
+
+.paragraph-text {
+    font-family: HelveticaNeue-Light, HelveticaNeue, Arial;
+    font-size: 14px;
+    line-height: 24px;
+    color: #54636D;
+}
+
+.author-name {
+    font-family: Avenir-Black, Avenir, Arial;
+    font-size: 20px;
+    line-height: 27px;
+    color: #313F48;
+}
+
+.client-feedback-text {
+    font-family: HelveticaNeue-LightItalic, HelveticaNeue, Arial;
+    font-size: 12px;
+    line-height: 24px;
+    color: #313F48;
+}
+
+.footer-text {
+    font-family: HelveticaNeue, Arial;
+    font-size: 10px;
+    line-height: 12px;
+    color: #54636D;
+}
+/* End - Specific styles */
+
+/* Start - Very small screen styles & effects */
+@media (max-width: 575px) {
+    .carousel-title {
+        font-family: Avenir-Black, Avenir, Arial;
+        font-size: 30px;
+        line-height: 30px;
+        color: #313F48;
+    }
+    
+    .carousel-description {
+        font-family: Avenir-Light, Avenir, Arial;
+        font-size: 14px;
+        line-height: 20px;
+        color: #FFFFFF;
+    }
+}
+/* End - Very small screen styles & effects */
+
+/* Start - Small screen styles & effects */
+@media (max-width: 1199px) {
+    #carouselMain {
+        margin-top: 88px;
+    }
+
+    .carousel-text {
+        margin-top: 9vh;
+    }
+}
+/* End - Small screen styles & effects */
+
+/* Start - Large screen styles & effects */
+@media (min-width: 1200px) {
+    /* Start - General styles */
+    #carouselMain .carousel-item img {
+        object-fit: cover;
+        object-position: center;
+        height: 90.6vh;
+        overflow: hidden;
+    }
+    /* End - General styles */
+
+    /* Start - Post image hover effect */
+    .hover {
+        overflow: hidden;
+        position: relative;
+        padding-bottom: 96.1%;
+    }
+
+    .hover-overlay {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 90;
+        transition: all 0.4s;
+    }
+
+    .hover img {
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: all 0.3s;
+    }
+
+    .hover-content {
+        position: relative;
+        z-index: 99;
+    }
+
+    .hover-2 .hover-overlay {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1));
+    }
+
+    .hover-2-title {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        text-align: center;
+        width: 100%;
+        z-index: 99;
+        transition: all 0.3s;
+    }
+
+    .hover-2-description {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        opacity: 0;
+        left: 0;
+        text-align: center;
+        z-index: 99;
+        transition: all 0.3s;
+    }
+
+    .hover-2:hover .hover-2-title {
+        transform: translateY(-5rem);
+    }
+
+    .hover-2:hover .hover-2-description {
+        bottom: 6rem;
+        opacity: 1;
+    }
+
+    .hover-2:hover .hover-overlay {
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1));
+    }
+    /* End - Post image hover effect */
+
+    /* Start - Invert post contents colors */
+    .post-title {
+        color: white;
+    }
+
+    .post-date {
+        font-family: HelveticaNeue-Medium, HelveticaNeue, Arial;
+        font-size: 14px;
+        line-height: 24px;
+        color: rgba(255, 255, 255, 0.5);
+    }
+
+    .post-description {
+        font-family: HelveticaNeue-Light, HelveticaNeue, Arial;
+        font-size: 14px;
+        line-height: 24px;
+        color: white;
+    }
+
+    .post-read {
+        text-decoration: none;
+        color: white;
+    }
+    /* End - Invert post contents colors */
+
+    /* Start - Zoom post image and its contents on hover */
+    .image-zoom {
+        transition: transform .1s;
+    }
+
+    .image-zoom:hover {
+        transform: scale(1.07);
+    }
+    /* End - Zoom post image and its contents on hover */
+}
+/* End - Large screen styles & effects */
